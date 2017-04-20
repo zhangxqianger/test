@@ -1,3 +1,8 @@
 newFile
 newLine
+<<<<<<< HEAD
 newnewLine
+=======
+newnewFile for dev
+>>>>>>> dev
+reating a new branch is quick and simple.
